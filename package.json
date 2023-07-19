@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KHARKIVSKA-KURKUMA/CLI-App.git"
+    "url": "git+https://github.com/KHARKIVSKA-KURKUMA/node-hw1.git"
   },
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/KHARKIVSKA-KURKUMA/CLI-App/issues"
+    "url": "https://github.com/KHARKIVSKA-KURKUMA/node-hw1/issues"
   },
-  "homepage": "https://github.com/KHARKIVSKA-KURKUMA/CLI-App#readme",
+  "homepage": "https://github.com/KHARKIVSKA-KURKUMA/node-hw1#readme",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.19"
