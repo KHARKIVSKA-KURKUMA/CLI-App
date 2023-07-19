@@ -17,3 +17,4 @@ node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22
 
 node index.js --action="remove" --id 1
 ![remove](./assets/remove.png)
+![remove](./assets/remove_2.png)
