@@ -1,5 +1,5 @@
 const chalk = require("chalk");
-const contacts = require("./db/contacts");
+const contacts = require("./contacts");
 
 const { Command } = require("commander");
 const program = new Command();
